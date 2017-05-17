@@ -1,0 +1,7 @@
+.my-jumbotron-background{
+    background-color: white;
+    background-image: url("http://cdn.akc.org/158682124.jpg");
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+}
